@@ -3,4 +3,4 @@ Integrating Eyelink 1000 plus recording, stimuli presentation and audio recordin
 
 SR-Research's Pylink module must be installed first. 
 
-Know issue: eyelink messages sometimes fail to be send when the sound recording is under processing.
+Known issue: eyelink messages sometimes fail to be send when the sound recording is under processing.
